@@ -387,6 +387,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Collective CFP](https://sessionize.com/ddd-meetups) - Submit your talks to all the DDD user groups at once.
 - [Map of user groups in Europe](https://datawrapper.dwcdn.net/9FNZI/)
 - [Map of user groups in North America](https://datawrapper.dwcdn.net/nbZkd/)
+- [Map of user groups in South America](https://datawrapper.dwcdn.net/GhcEA/)
 - [Map of user groups in Asia](https://datawrapper.dwcdn.net/oin66/)
 - [Map of user groups in Africa](https://datawrapper.dwcdn.net/yaEOa/)
 - [Map of user groups in Oceania](https://datawrapper.dwcdn.net/jdLbp/)
